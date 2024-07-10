@@ -1,0 +1,1 @@
+Basic Otel for traces
